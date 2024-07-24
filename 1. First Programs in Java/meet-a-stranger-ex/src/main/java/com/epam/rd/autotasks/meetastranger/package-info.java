@@ -1,0 +1,1 @@
+package com.epam.rd.autotasks.meetastranger;
